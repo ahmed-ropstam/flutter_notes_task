@@ -1,1 +1,1 @@
-Keep all the widgets in this folder
+# This folder will have all the UI Components (Widgets) for the app's UI

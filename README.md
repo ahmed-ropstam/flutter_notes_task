@@ -6,3 +6,5 @@ You need to develop a notes application with the following functionalities
 - Add note
 - Delete note
 - Update note
+
+Initially start with the UI Development of this app
